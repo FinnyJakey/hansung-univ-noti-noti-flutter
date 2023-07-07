@@ -46,6 +46,7 @@ app.*.map.json
 # Firebase Options
 firebase_options.dart
 google-services.json
+GoogleService-Info.plist
 
 # Key Files
 key.jks
