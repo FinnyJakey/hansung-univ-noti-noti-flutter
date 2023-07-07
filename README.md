@@ -7,6 +7,7 @@
 Run the following commands from your terminal:
 1. `git clone https://github.com/FinnyJakey/hansung-univ-noti-noti-flutter` to clone this repository.
 2. `flutter pub get` in the project root directory to install all the required dependencies.
+3. You have to configure Firebase for Flutter Application.
 
 ## Download 한성대 노티노티 at:
 ~~`[App store]`: https://apps.apple.com/app/id6444118912~~
